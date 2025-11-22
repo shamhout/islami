@@ -1,13 +1,18 @@
+<<<<<<< HEAD
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:islame/core/resources/assets_manger.dart';
 import 'package:islame/features/hadit/hadithitem.dart';
+=======
+import 'package:flutter/material.dart';
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
 
 class hadith_tab extends StatelessWidget {
   const hadith_tab({super.key});
 
   @override
   Widget build(BuildContext context) {
+<<<<<<< HEAD
     List.generate(50, (index) => index);
     return Container(
       decoration: const BoxDecoration(
@@ -46,3 +51,8 @@ class hadith_tab extends StatelessWidget {
   }
 }
 //async*  {
+=======
+    return const Placeholder();
+  }
+}
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6

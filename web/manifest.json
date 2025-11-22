@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "islami",
     "short_name": "islami",
+=======
+    "name": "islame",
+    "short_name": "islame",
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "islami.app"
+=======
+               BuildableName = "islame.app"
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "islami.app"
+=======
+            BuildableName = "islame.app"
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -59,14 +67,21 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
+<<<<<<< HEAD
       enableGPUValidationMode = "1"
+=======
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
       allowLocationSimulation = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "islami.app"
+=======
+            BuildableName = "islame.app"
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +98,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "islami.app"
+=======
+            BuildableName = "islame.app"
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

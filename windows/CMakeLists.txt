@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(islami LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "islami")
+=======
+project(islame LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "islame")
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

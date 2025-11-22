@@ -59,5 +59,9 @@ class SuraItem extends StatelessWidget {
         ],
       ),
     );
+<<<<<<< HEAD
   }
 }
+=======
+  } }
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6

@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"islami", origin, size)) {
+=======
+  if (!window.Create(L"islame", origin, size)) {
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

@@ -8,6 +8,7 @@ abstract class ImageAssets {
   static const String qurantablogo = "$base/img_header.png";
   static const String Surabg = "$base/Sourabg.png";
   static const String numberone = "$base/1.png";
+<<<<<<< HEAD
   static const String suradetailspatternright =
       "$base/suradetailspatternright.png";
   static const String suradetailspatternleft =
@@ -18,6 +19,10 @@ abstract class ImageAssets {
   static const String hadithbackgroundcard = "$base/haditbackgroundcard.png";
 
   static const String hadithbackgroundcardbottom = "$base/hadithbottom.png";
+=======
+  static const String suradetailspatternright = "$base/suradetailspatternright.png";
+  static const String suradetailspatternleft = "$base/suradetailspatternleft.png";
+>>>>>>> 245359f9913c0042c3ee34d74a391a8628421bc6
 }
 
 abstract class IconAssets {
